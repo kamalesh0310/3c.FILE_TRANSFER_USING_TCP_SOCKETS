@@ -41,10 +41,10 @@ file.close()
 client.close()
 ~~~
 ## OUTPUT
-## SERVER
-
+Server:
+![alt text](<Screenshot 2026-03-15 183915.png>)
 client:
-
+![alt text](<Screenshot 2026-03-15 184031.png>)
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
